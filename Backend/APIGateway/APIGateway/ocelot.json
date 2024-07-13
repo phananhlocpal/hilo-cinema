@@ -1,0 +1,20 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/GetTheaterService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/TheaterService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    }
+  ],
+  "GlobalConfiguration": {}
+}

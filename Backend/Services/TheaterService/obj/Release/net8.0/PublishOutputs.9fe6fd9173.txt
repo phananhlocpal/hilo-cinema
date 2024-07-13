@@ -1,0 +1,16 @@
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\TheaterService.exe
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\appsettings.Development.json
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\appsettings.json
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\TheaterService.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\TheaterService.runtimeconfig.json
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\TheaterService.pdb
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\AutoMapper.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\TheaterService\obj\Docker\publish\TheaterService.deps.json
