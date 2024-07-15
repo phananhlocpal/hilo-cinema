@@ -6,7 +6,7 @@ using TheaterService.Models;
 
 namespace TheaterService.Controllers
 {
-    [Route("api/GetTheaterService")]
+    [Route("api/TheaterService")]
     [ApiController]
     public class TheaterController : ControllerBase
     {
