@@ -1,0 +1,85 @@
+[
+  {
+    "ContainingType": "PromotionService.Controllers.PromotionController",
+    "Method": "GetAll",
+    "RelativePath": "api/PromotionService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PromotionService.Controllers.PromotionController",
+    "Method": "InsertMovie",
+    "RelativePath": "api/PromotionService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "promotionCreate",
+        "Type": "PromotionService.Dtos.PromotionCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PromotionService.Dtos.PromotionReadDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PromotionService.Controllers.PromotionController",
+    "Method": "GetMovieById",
+    "RelativePath": "api/PromotionService/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PromotionService.Controllers.PromotionController",
+    "Method": "UpdateMovie",
+    "RelativePath": "api/PromotionService/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "promotionCreateDTO",
+        "Type": "PromotionService.Dtos.PromotionCreateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PromotionService.Dtos.PromotionReadDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

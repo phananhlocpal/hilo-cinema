@@ -9,9 +9,9 @@ namespace CustomerService.Controllers
     [Route("api/[controller]")]
     public class CustomerController : ControllerBase
     {
-        private readonly CustomerRepository _repository;
+        private readonly ICustomerRepository _repository;
         private readonly IMapper _mapper;
-        public CustomerController(CustomerRepository repository, IMapper mapper)
+        public CustomerController(ICustomerRepository repository, IMapper mapper)
         {
             _repository = repository;
             _mapper = mapper;
