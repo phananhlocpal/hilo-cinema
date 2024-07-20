@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\movieservice\\data\\moviedata\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\data\\moviedata\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}|Services\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\authenticationservice\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}|Services\\AuthenticationService\\AuthenticationService.csproj|solutionrelative:services\\authenticationservice\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\data\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\data\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}|Services\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\authenticationservice\\data\\authenticatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}|Services\\AuthenticationService\\AuthenticationService.csproj|solutionrelative:services\\authenticationservice\\data\\authenticatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D77AD0-CBCD-4026-A205-3402F874EB7A}|Services\\CustomerService\\CustomerService.csproj|solutionrelative:services\\customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Program.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:22:05.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\MovieService\\Data\\MovieData\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService\\Data\\MovieData\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\MovieService\\Data\\MovieData\\MovieRepository.cs",
+              "RelativeToolTip": "Services\\MovieService\\Data\\MovieData\\MovieRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:58:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\AuthenticationService\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\AuthenticationService\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\Data\\CustomerRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:48:41.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Data\\CustomerRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:43:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Data\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\ICustomerRepository.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Data\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:40:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:40:23.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\appsettings.json",
+              "RelativeToolTip": "Services\\CustomerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T01:22:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticateDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\AuthenticationService\\Data\\AuthenticateDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\Data\\AuthenticateDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\AuthenticationService\\Data\\AuthenticateDbContext.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\Data\\AuthenticateDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:39:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Data\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Data\\CustomerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:39:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Dtos\\CustomerReadDTO.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Dtos\\CustomerReadDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Dtos\\CustomerReadDTO.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Dtos\\CustomerReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:38:22.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Models\\Customer.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Models\\Customer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:38:05.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Dtos\\CustomerCreateDTO.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Dtos\\CustomerCreateDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Dtos\\CustomerCreateDTO.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Dtos\\CustomerCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:37:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Profiles\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService\\Profiles\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\CustomerService\\Profiles\\CustomerProfile.cs",
+              "RelativeToolTip": "Services\\CustomerService\\Profiles\\CustomerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:35:42.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

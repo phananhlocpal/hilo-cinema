@@ -19,7 +19,7 @@ namespace TheaterService.Data
         public virtual DbSet<TheaterModel> Theaters { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Server=DESKTOP-BM7NF3L; Database=Theater;Integrated Security=True; TrustServerCertificate=True;");
+            => optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=db_hilocinema;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
