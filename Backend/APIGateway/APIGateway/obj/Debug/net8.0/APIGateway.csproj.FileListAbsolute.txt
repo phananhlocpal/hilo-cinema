@@ -42,3 +42,4 @@ C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json

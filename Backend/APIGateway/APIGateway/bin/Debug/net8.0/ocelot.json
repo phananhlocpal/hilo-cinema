@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/GetTheaterService",
+      "DownstreamPathTemplate": "/api/TheaterService",
       "DownstreamScheme": "http",
       "UpstreamPathTemplate": "/TheaterService",
       "UpstreamHttpMethod": [ "Get" ],
@@ -9,6 +9,126 @@
         {
           "Host": "localhost",
           "Port": 5001
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/MovieService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/MovieService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/ScheduleService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/ScheduleService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5003
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/SaleService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/SaleService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5004
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/CustomerService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/CustomerService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5005
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/EmployeeService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/EmployeeService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5006
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/PromotionService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/PromotionService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5007
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/BlogService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/BlogService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5008
+        }
+      ],
+      "QoSOptions": {
+        "TimeoutValue": 360000
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/AuthenticationService",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/AuthenticationService",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5009
         }
       ],
       "QoSOptions": {

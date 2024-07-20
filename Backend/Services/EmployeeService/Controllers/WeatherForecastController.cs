@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ScheduleService.Controllers
+namespace EmployeeService.Controllers
 {
     [ApiController]
     [Route("[controller]")]
