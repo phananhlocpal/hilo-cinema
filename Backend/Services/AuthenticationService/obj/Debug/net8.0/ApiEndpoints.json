@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "Authenticate",
+    "RelativePath": "api/AuthenticateCus/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "Logout",
+    "RelativePath": "api/AuthenticateCus/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.LogoutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "Register",
+    "RelativePath": "api/AuthenticateCus/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
