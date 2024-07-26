@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c4270424-709d-4d9c-9c6e-0621c21a09af")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScheduleService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e25a8e34cb924077a00843455b1fe4b2f102561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8286ecc44770f881c1b83783880464cc74e26b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScheduleService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScheduleService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

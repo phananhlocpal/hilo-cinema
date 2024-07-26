@@ -7,14 +7,14 @@ namespace ScheduleService.Data
 {
     public class ScheduleRepo : IScheduleRepo
     {
-        private readonly AppDBContext _context;
+        private readonly ScheduleContext _context;
 
-        public ScheduleRepo(AppDBContext context)
+        public ScheduleRepo(ScheduleContext context)
         {
             _context = context;
         }
 
-        public void createSchedule(ScheduleModel schedule)
+        public void createSchedule(Schedule schedule)
         {
             if (schedule == null)
             {
@@ -23,12 +23,12 @@ namespace ScheduleService.Data
             _context.Schedules.Add(schedule);
         }
 
-        public IEnumerable<ScheduleModel> getAllSchedule()
+        public IEnumerable<Schedule> getAllSchedule()
         {
             return _context.Schedules.ToList();
         }
 
-        public ScheduleModel getScheduleByCriteria(int? theaterId = null, int? movieId = null, DateOnly? date = null, TimeSpan? time = null, string? movieType = null, int? roomId = null)
+        public Schedule getScheduleByCriteria(int? theaterId = null, int? movieId = null, DateOnly? date = null, TimeOnly? time = null, string? movieType = null, int? roomId = null)
         {
             var query = _context.Schedules.AsQueryable();
 

@@ -10,8 +10,8 @@ namespace ScheduleService.Profiles
         {
             // Source -> Target
             
-            CreateMap<ScheduleModel, ScheduleReadDto>();
-            CreateMap<ScheduleCreateDto, ScheduleModel>();
+            CreateMap<Schedule, ScheduleReadDto>();
+            CreateMap<ScheduleCreateDto, Schedule>();
 
         }
     }

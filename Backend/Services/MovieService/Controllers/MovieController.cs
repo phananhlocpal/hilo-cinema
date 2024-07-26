@@ -1,10 +1,13 @@
-﻿using AutoMapper;
+﻿
+using AutoMapper;
 using CoreApiResponse;
 using Microsoft.AspNetCore.Mvc;
 using MovieService.Data.MovieData;
 using MovieService.Dtos.MovieDTO;
 using MovieService.Models;
+using MovieService.Service;
 using System.Net;
+using System.Threading.Tasks;
 
 namespace MovieService.Controllers
 {
@@ -22,56 +25,54 @@ namespace MovieService.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllMovie()
+        public async Task<IActionResult> GetAllMovie()
         {
-            var movieItem = _repository.GetAll();
-            var mapToDTO = _mapper.Map<IEnumerable<MovieReadDTO>>(movieItem);
+            var movieItems = await _repository.GetAllAsync();
+            var mapToDTO = _mapper.Map<IEnumerable<MovieReadDTO>>(movieItems);
             return CustomResult("Data load successfully", mapToDTO);
         }
 
         [HttpPost]
-        public ActionResult<MovieReadDTO> InsertMovie(MovieCreateDTO movieCreateDTO)
+        public async Task<ActionResult<MovieReadDTO>> InsertMovie(MovieCreateDTO movieCreateDTO)
         {
-            Movies movie = _mapper.Map<Movies>(movieCreateDTO);
-            _repository.InsertMovie(movie);
-            _repository.saveChange();
+            var movie = _mapper.Map<Movie>(movieCreateDTO);
+            await _repository.InsertMovieAsync(movie);
+            await _repository.SaveChangesAsync();
 
-            MovieReadDTO movieReadDTO = _mapper.Map<MovieReadDTO>(movie);
-
+            var movieReadDTO = _mapper.Map<MovieReadDTO>(movie);
             return Ok(movieReadDTO);
-
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetMovieById(int id)
+        public async Task<IActionResult> GetMovieById(int id)
         {
             try
             {
-                Movies movie = _repository.GetById(id);
+                var movie = await _repository.GetByIdAsync(id);
                 if (movie == null)
                 {
                     return CustomResult("Movie not found", HttpStatusCode.BadRequest);
                 }
                 return CustomResult("Movie found", _mapper.Map<MovieReadDTO>(movie));
             }
-            catch(IOException e)
+            catch (IOException e)
             {
                 return BadRequest(e.Message);
             }
-            
         }
 
         [HttpPut("{id}")]
-        public ActionResult<MovieReadDTO> UpdateMovie(int id, MovieCreateDTO movieCreateDTO)
+        public async Task<ActionResult<MovieReadDTO>> UpdateMovie(int id, MovieCreateDTO movieCreateDTO)
         {
-            var existingMovie = _repository.GetById(id);
+            var existingMovie = await _repository.GetByIdAsync(id);
             if (existingMovie == null)
             {
                 return NotFound();
             }
             _mapper.Map(movieCreateDTO, existingMovie);
-            _repository.Update(id, existingMovie);
-            MovieReadDTO updatedMovieDto = _mapper.Map<MovieReadDTO>(existingMovie);
+            await _repository.UpdateAsync(id, existingMovie);
+
+            var updatedMovieDto = _mapper.Map<MovieReadDTO>(existingMovie);
             return Ok(updatedMovieDto);
         }
 

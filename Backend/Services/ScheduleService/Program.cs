@@ -15,11 +15,14 @@ var configuration = new ConfigurationBuilder()
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDBContext>(options =>
+builder.Services.AddDbContext<ScheduleContext>(options =>
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
-builder.Services.AddScoped<IMessageProducer, MessageProducer>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<ScheduleSubcriber>();
+builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddControllers();
 
 // Configure CORS
 builder.Services.AddCors(options =>
@@ -51,6 +54,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-PrepDB.PrepPopulation(app);
+//PrepDB.PrepPopulation(app);
 
 app.Run();

@@ -1,37 +1,46 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using MovieService.Data;
 using MovieService.Data.ActorData;
 using MovieService.Data.CategoryData;
 using MovieService.Data.MovieData;
 using MovieService.Data.MovieTypeData;
 using MovieService.Data.Producer;
+using MovieService.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuration
+// Cấu hình
 var configuration = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json")
     .Build();
 
-// Add services to the container.
+// Thêm các dịch vụ vào container.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MovieDbContext>(options =>
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+
+// Đăng ký dịch vụ scoped
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<IProducerRepository, ProducerRepository>();
-builder.Services.AddScoped<IActorRepository,ActorRepository>();
+builder.Services.AddScoped<IActorRepository, ActorRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IMovieTypeRepository, MovieTypeRepository>();
+
+// Đăng ký auto mapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-// Configure CORS
+// Đăng ký dịch vụ hosted với factory
+builder.Services.AddSingleton<MovieService>();
+builder.Services.AddSingleton<IHostedService>(provider => provider.GetRequiredService<MovieService>());
+
+// Cấu hình CORS
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
     {
-        builder.WithOrigins("http://localhost:5002") // Update this URL to match your React app's URL
+        builder.WithOrigins("http://localhost:5002") // Cập nhật URL này để khớp với URL của ứng dụng React của bạn
                .AllowAnyHeader()
                .AllowAnyMethod();
     });
@@ -39,7 +48,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Cấu hình pipeline yêu cầu HTTP.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -47,14 +56,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-// Enable CORS
 app.UseCors();
-
 app.UseRouting();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();

@@ -4,10 +4,10 @@ namespace MovieService.Data.CategoryData
 {
     public interface ICategoryRepository
     {
-        IEnumerable<Categories> GetAll();
-        Categories GetById(int id);
-        void Insert(Categories categories);
-        void Update(int id, Categories categories);
+        IEnumerable<Category> GetAll();
+        Category GetById(int id);
+        void Insert(Category categories);
+        void Update(int id, Category categories);
         bool saveChange();
     }
 }

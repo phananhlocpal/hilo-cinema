@@ -11,27 +11,27 @@ namespace MovieService.Data.CategoryData
         }
 
 
-        public IEnumerable<Categories> GetAll()
+        public IEnumerable<Category> GetAll()
         {
-            IEnumerable<Categories> categories = _context.Categories.ToList();
+            IEnumerable<Category> categories = _context.Category.ToList();
             return categories;
         }
 
-        public Categories GetById(int id)
+        public Category GetById(int id)
         {
-            Categories category = _context.Categories.FirstOrDefault(x => x.Id == id);
+            Category category = _context.Category.FirstOrDefault(x => x.Id == id);
             return category;
         }
 
-        public void Insert(Categories category)
+        public void Insert(Category category)
         {
-            _context.Categories.Add(category);
+            _context.Category.Add(category);
 
         }
 
-        public void Update(int id, Categories category)
+        public void Update(int id, Category category)
         {
-            Categories currentCategory = _context.Categories.FirstOrDefault(x => x.Id == id);
+            Category currentCategory = _context.Category.FirstOrDefault(x => x.Id == id);
             if (currentCategory != null)
             {
                 currentCategory.Name = category.Name;

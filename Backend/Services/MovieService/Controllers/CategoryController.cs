@@ -48,7 +48,7 @@ namespace MovieService.Controllers
         {
             try
             {
-                Categories category = _mapper.Map<Categories>(categoryCreateDTO);
+                Category category = _mapper.Map<Category>(categoryCreateDTO);
                 _repository.Insert(category);
                 _repository.saveChange();
 
@@ -67,7 +67,7 @@ namespace MovieService.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            Categories category = _repository.GetById(id);
+            Category category = _repository.GetById(id);
             if (category == null)
             {
                 return CustomResult("Category does not exist", System.Net.HttpStatusCode.NotFound);

@@ -1,56 +1,48 @@
-﻿using MovieService.Exception;
-using MovieService.Models;
+﻿using MovieService.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace MovieService.Data.MovieData
 {
     public class MovieRepository : IMovieRepository
     {
         private readonly MovieDbContext _context;
+
         public MovieRepository(MovieDbContext context)
         {
             _context = context;
         }
 
-
-        public IEnumerable<Movies> GetAll()
+        public async Task<IEnumerable<Movie>> GetAllAsync()
         {
-            IEnumerable<Movies> movies = _context.Movie.ToList();
-            return movies;        }
-
-        public Movies GetById(int id)
-        {
-                Movies movie = _context.Movie.FirstOrDefault(x => x.Id == id);
-                return movie;
+            return await _context.Movie.ToListAsync();
         }
 
-        public void InsertMovie(Movies movie)
+        public async Task<Movie> GetByIdAsync(int id)
         {
-            _context.Movie.Add(movie);
-
+            return await _context.Movie.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public void Update(int id, Movies movie)
+        public async Task InsertMovieAsync(Movie movie)
         {
-            Movies currentMovie = _context.Movie.FirstOrDefault(x => x.Id == id);
+            await _context.Movie.AddAsync(movie);
+        }
+
+        public async Task UpdateAsync(int id, Movie movie)
+        {
+            var currentMovie = await _context.Movie.FindAsync(id);
             if (currentMovie != null)
             {
-                currentMovie.Title = movie.Title;
-                currentMovie.Duration = movie.Duration;
-                currentMovie.Released_Date = movie.Released_Date;
-                currentMovie.Rate = movie.Rate;
-                currentMovie.Country = movie.Country;
-                currentMovie.Director = movie.Director;
-                currentMovie.Description = movie.Description;
-                currentMovie.Img_Small = movie.Img_Small;
-                currentMovie.Img_Large = movie.Img_Large;
-                currentMovie.Trailer = movie.Trailer;
-
-                _context.SaveChanges();
+                _context.Entry(currentMovie).CurrentValues.SetValues(movie);
+                await _context.SaveChangesAsync();
             }
         }
-        public bool saveChange()
+
+        public async Task<bool> SaveChangesAsync()
         {
-            return _context.SaveChanges() >= 0;
+            return await _context.SaveChangesAsync() >= 0;
         }
     }
 }

@@ -50,7 +50,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// Ensure the database is created and seeded
-PrepDB.PrepPopulation(app);
 
 app.Run();

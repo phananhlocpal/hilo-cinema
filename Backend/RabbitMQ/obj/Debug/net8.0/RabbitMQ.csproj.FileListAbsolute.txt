@@ -1,0 +1,13 @@
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\bin\Debug\net8.0\RabbitMQ.deps.json
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\bin\Debug\net8.0\RabbitMQ.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\bin\Debug\net8.0\RabbitMQ.pdb
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfo.cs
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.sourcelink.json
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\refint\RabbitMQ.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\RabbitMQ.pdb
+C:\Users\Surface\source\repos\HiloCinema\Backend\RabbitMQ\obj\Debug\net8.0\ref\RabbitMQ.dll

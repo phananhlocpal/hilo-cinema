@@ -11,10 +11,16 @@ C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.csproj.AssemblyReference.cache
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.AssemblyInfoInputs.cache
@@ -22,6 +28,7 @@ C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.csproj.CoreCompileInputs.cache
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
@@ -36,10 +43,3 @@ C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.pdb
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.genruntimeconfig.cache
 C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\ref\APIGateway.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Surface\source\repos\HiloCinema\Backend\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json

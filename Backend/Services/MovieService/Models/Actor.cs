@@ -9,7 +9,7 @@ namespace MovieService.Models
         [MaxLength(30)]
         public string Name { get; set; }
         [MaxLength(500)]
-        public string Description { get; set; }
-        public byte[] Img { get; set; }
+        public string? Description { get; set; }
+        public byte[]? Img { get; set; }
     }
 }

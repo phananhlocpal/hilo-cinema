@@ -7,8 +7,8 @@ namespace MovieService.Profiles
     public class CategoryProfile : Profile
     {
         public CategoryProfile() {
-            CreateMap<Categories, CategoryReadDTO>();
-            CreateMap<CategoryCreateDTO, Categories>();
+            CreateMap<Category, CategoryReadDTO>();
+            CreateMap<CategoryCreateDTO, Category>();
         }
     }
 }

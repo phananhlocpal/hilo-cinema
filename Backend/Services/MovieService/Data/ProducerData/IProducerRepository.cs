@@ -4,10 +4,10 @@ namespace MovieService.Data.Producer
 {
     public interface IProducerRepository
     {
-        IEnumerable<Producers> GetAll();
-        Producers GetById(int id);
-        void InsertProducer(Producers producers);
-        void UpdateProducer(int id, Producers producers);
+        IEnumerable<Models.Producers> GetAll();
+        Models.Producers GetById(int id);
+        void InsertProducer(Models.Producers producers);
+        void UpdateProducer(int id, Models.Producers producers);
         bool saveChange();
     }
 }
