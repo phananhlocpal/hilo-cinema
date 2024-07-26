@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\",
   "Documents": [
     {
@@ -192,14 +193,19 @@
       "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\",
+  "Documents": [],
+>>>>>>> mhieu
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 190,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -224,6 +230,7 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -806,6 +813,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T04:43:59.366Z"
+=======
+>>>>>>> mhieu
             }
           ]
         }

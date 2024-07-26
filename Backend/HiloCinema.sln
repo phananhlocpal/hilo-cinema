@@ -17,23 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ", "RabbitMQ\Rabbit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScheduleService", "Services\ScheduleService\ScheduleService.csproj", "{28A9475A-257A-4DE3-95F9-59D07375F1E2}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleService", "Services\SaleService\SaleService.csproj", "{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaleService", "Services\SaleService\SaleService.csproj", "{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService", "Services\EmployeeService\EmployeeService.csproj", "{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7}"
-=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeService", "Services\EmployeeService\EmployeeService.csproj", "{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieService", "Services\MovieService\MovieService.csproj", "{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationService", "Services\AuthenticationService\AuthenticationService.csproj", "{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService", "Services\CustomerService\CustomerService.csproj", "{F5D77AD0-CBCD-4026-A205-3402F874EB7A}"
->>>>>>> mhieu
-=======
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerService", "Services\CustomerService\CustomerService.csproj", "{F5D77AD0-CBCD-4026-A205-3402F874EB7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionService", "Services\PromotionService\PromotionService.csproj", "{66820016-4163-4A1B-BDAA-FE3BAA63C249}"
->>>>>>> mhieu
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionService", "Services\PromotionService\PromotionService.csproj", "{66820016-4163-4A1B-BDAA-FE3BAA63C249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,7 +51,6 @@ Global
 		{28A9475A-257A-4DE3-95F9-59D07375F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A9475A-257A-4DE3-95F9-59D07375F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A9475A-257A-4DE3-95F9-59D07375F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -66,7 +59,6 @@ Global
 		{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -79,14 +71,10 @@ Global
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
->>>>>>> mhieu
-=======
 		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> mhieu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,18 +84,12 @@ Global
 		{7399C762-A703-4D20-A16D-8691449863AF} = {ECB63B92-7A30-4F6C-B067-11F0BC3050BA}
 		{D322705B-6145-4969-B4BD-9DCFA6010263} = {6D28CF39-8CA4-4E4D-BA5C-88332BAC3632}
 		{28A9475A-257A-4DE3-95F9-59D07375F1E2} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
-<<<<<<< HEAD
 		{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 		{BEAD7969-FFB3-4BC3-A862-76F0DE0281D7} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
-=======
 		{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 		{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
-<<<<<<< HEAD
->>>>>>> mhieu
-=======
 		{66820016-4163-4A1B-BDAA-FE3BAA63C249} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
->>>>>>> mhieu
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3143ECA9-4E22-4315-A9C3-F29DD52CD1A6}
