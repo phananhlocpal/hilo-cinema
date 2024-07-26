@@ -10,5 +10,6 @@ namespace AuthenticationService.Data
         }
 
         public virtual DbSet<Customer> Customer { get; set; }
+        public virtual DbSet<Employee> Employee { get; set; }
     }
 }

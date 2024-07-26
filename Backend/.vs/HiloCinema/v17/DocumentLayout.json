@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{66820016-4163-4A1B-BDAA-FE3BAA63C249}|Services\\PromotionService\\PromotionService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66820016-4163-4A1B-BDAA-FE3BAA63C249}|Services\\PromotionService\\PromotionService.csproj|solutionrelative:services\\promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66820016-4163-4A1B-BDAA-FE3BAA63C249}|Services\\PromotionService\\PromotionService.csproj|c:\\users\\user\\onedrive\\desktop\\hilo-cinema\\backend\\services\\promotionservice\\data\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66820016-4163-4A1B-BDAA-FE3BAA63C249}|Services\\PromotionService\\PromotionService.csproj|solutionrelative:services\\promotionservice\\data\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PromotionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\PromotionService\\Data\\PromotionRepository.cs",
-              "RelativeDocumentMoniker": "Services\\PromotionService\\Data\\PromotionRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\PromotionService\\Data\\PromotionRepository.cs",
-              "RelativeToolTip": "Services\\PromotionService\\Data\\PromotionRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA4wB0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T14:07:49.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PromotionController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\PromotionService\\Controllers\\PromotionController.cs",
-              "RelativeDocumentMoniker": "Services\\PromotionService\\Controllers\\PromotionController.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\Services\\PromotionService\\Controllers\\PromotionController.cs",
-              "RelativeToolTip": "Services\\PromotionService\\Controllers\\PromotionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T14:08:25.502Z",
-              "EditorCaption": ""
             }
           ]
         }
