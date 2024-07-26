@@ -18,8 +18,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ScheduleContext>(options =>
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-builder.Services.AddScoped<ScheduleSubcriber>();
+builder.Services.AddScoped<ScheduleMessageBroker>();
 builder.Services.AddScoped<IScheduleRepo, ScheduleRepo>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddControllers();
@@ -53,7 +52,5 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllers();
-
-//PrepDB.PrepPopulation(app);
 
 app.Run();

@@ -32,8 +32,8 @@ builder.Services.AddScoped<IMovieTypeRepository, MovieTypeRepository>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 // Đăng ký dịch vụ hosted với factory
-builder.Services.AddSingleton<MovieService>();
-builder.Services.AddSingleton<IHostedService>(provider => provider.GetRequiredService<MovieService>());
+builder.Services.AddSingleton<MovieMessageBroker>();
+builder.Services.AddSingleton<IHostedService>(provider => provider.GetRequiredService<MovieMessageBroker>());
 
 // Cấu hình CORS
 builder.Services.AddCors(options =>

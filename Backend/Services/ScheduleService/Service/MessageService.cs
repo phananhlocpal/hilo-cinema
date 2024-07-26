@@ -1,13 +1,9 @@
-﻿using System.Text;
-using System.Text.Json;
-using AutoMapper;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+﻿using RabbitMQ.Client.Events;
 using RabbitMQ.Client;
-using RabbitMQ.Client.Events;
+using System.Text.Json;
+using System.Text;
 
-namespace MovieService.Service
+namespace ScheduleService.Service
 {
     public abstract class MessageService
     {

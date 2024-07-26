@@ -15,8 +15,8 @@ namespace ScheduleService.Controllers
     {
         private readonly IScheduleRepo _repository;
         private readonly IMapper _mapper;
-        private readonly ScheduleSubcriber _schduleSubcriber;
-        public ScheduleController(IScheduleRepo repository, IMapper mapper, ScheduleSubcriber schduleSubcriber)
+        private readonly Service.ScheduleMessageBroker _schduleSubcriber;
+        public ScheduleController(IScheduleRepo repository, IMapper mapper, Service.ScheduleMessageBroker schduleSubcriber)
         {
             _repository = repository;
             _mapper = mapper;
