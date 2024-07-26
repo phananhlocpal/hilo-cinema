@@ -1,4 +1,5 @@
 ﻿using AuthenticationService.Data;
+using AuthenticationService.Data.EmployeeData;
 using AuthenticationService.Helper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -18,6 +19,7 @@ builder.Services.AddDbContext<AuthenticateDbContext>(options =>
 
 // Đăng ký các dịch vụ repository
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 // Configure CORS
 builder.Services.AddCors(options =>
 {

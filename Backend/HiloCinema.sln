@@ -26,7 +26,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieService", "Services\Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationService", "Services\AuthenticationService\AuthenticationService.csproj", "{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService", "Services\CustomerService\CustomerService.csproj", "{F5D77AD0-CBCD-4026-A205-3402F874EB7A}"
+>>>>>>> mhieu
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerService", "Services\CustomerService\CustomerService.csproj", "{F5D77AD0-CBCD-4026-A205-3402F874EB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionService", "Services\PromotionService\PromotionService.csproj", "{66820016-4163-4A1B-BDAA-FE3BAA63C249}"
 >>>>>>> mhieu
 EndProject
 Global
@@ -73,6 +79,13 @@ Global
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+>>>>>>> mhieu
+=======
+		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66820016-4163-4A1B-BDAA-FE3BAA63C249}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> mhieu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
@@ -90,6 +103,10 @@ Global
 		{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 		{5DBBA01F-094B-4196-B9A4-CF3F34F45CB1} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 		{F5D77AD0-CBCD-4026-A205-3402F874EB7A} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
+<<<<<<< HEAD
+>>>>>>> mhieu
+=======
+		{66820016-4163-4A1B-BDAA-FE3BAA63C249} = {9E5C7D71-035D-4FED-AE04-5B65D3EDF8D7}
 >>>>>>> mhieu
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

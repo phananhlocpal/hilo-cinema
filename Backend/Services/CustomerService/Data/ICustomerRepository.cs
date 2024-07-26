@@ -9,5 +9,6 @@ namespace CustomerService.Data
         Customer SearchByPhone(string phone);
         Customer SearchById(int id);
         void Update(Customer customer);
+        int GetAllCount();
     }
 }

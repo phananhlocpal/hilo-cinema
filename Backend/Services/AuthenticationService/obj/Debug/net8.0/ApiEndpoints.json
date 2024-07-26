@@ -2,7 +2,7 @@
   {
     "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
     "Method": "Authenticate",
-    "RelativePath": "api/AuthenticateCus/login",
+    "RelativePath": "api/AuthenticationService/customer/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,8 +17,8 @@
   },
   {
     "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
-    "Method": "Logout",
-    "RelativePath": "api/AuthenticateCus/logout",
+    "Method": "LogoutCustomer",
+    "RelativePath": "api/AuthenticationService/customer/logout",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -34,7 +34,7 @@
   {
     "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
     "Method": "Register",
-    "RelativePath": "api/AuthenticateCus/register",
+    "RelativePath": "api/AuthenticationService/customer/register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -42,6 +42,54 @@
       {
         "Name": "model",
         "Type": "AuthenticationService.Dtos.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "AuthenticateEmployee",
+    "RelativePath": "api/AuthenticationService/employee/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "LogoutEmployee",
+    "RelativePath": "api/AuthenticationService/employee/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.LogoutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthenticateCusController",
+    "Method": "RegisterEmployee",
+    "RelativePath": "api/AuthenticationService/employee/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Dtos.Employee.RegisterEmployeeDTO",
         "IsRequired": true
       }
     ],

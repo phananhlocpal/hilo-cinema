@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qlae/XUgu/U=",
+=======
+  "dgSpecHash": "dXmuj+9FBJk=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\CustomerService\\CustomerService.csproj",
   "expectedPackageFiles": [

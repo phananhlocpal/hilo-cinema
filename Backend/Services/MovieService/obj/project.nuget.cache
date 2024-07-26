@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qw2YqpM00k0=",
+=======
+  "dgSpecHash": "/nDX8+jK+zQ=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.csproj",
   "expectedPackageFiles": [

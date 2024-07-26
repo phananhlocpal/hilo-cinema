@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oHUXLnaPpsQ=",
+=======
+  "dgSpecHash": "DyrzpLb9YBA=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\AuthenticationService\\AuthenticationService.csproj",
   "expectedPackageFiles": [

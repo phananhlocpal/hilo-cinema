@@ -8,8 +8,8 @@ namespace CustomerService.Profiles
     {
         public CustomerProfile()
         {
-            CreateMap<CustomerReadDTO, Customer>();
-            CreateMap<Customer, CustomerCreateDTO>();
+            CreateMap<Customer, CustomerReadDTO>();
+            CreateMap<CustomerCreateDTO, Customer>();
         }
     }
 }

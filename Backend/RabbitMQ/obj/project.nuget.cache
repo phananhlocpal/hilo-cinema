@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4V3nsKzgWpM=",
+=======
+  "dgSpecHash": "LhtePExir4g=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\RabbitMQ\\RabbitMQ.csproj",
   "expectedPackageFiles": [
