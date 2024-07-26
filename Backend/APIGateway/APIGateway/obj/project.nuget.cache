@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "YIBjPYjDghI=",
+=======
+  "dgSpecHash": "xqyJUZ3Nhw4=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\APIGateway.csproj",
   "expectedPackageFiles": [

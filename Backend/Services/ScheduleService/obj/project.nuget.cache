@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lW1O9/aaQpo=",
+=======
+  "dgSpecHash": "AkstT1lcJhk=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\ScheduleService.csproj",
   "expectedPackageFiles": [

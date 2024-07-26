@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dB42ZUKxkNs=",
+=======
+  "dgSpecHash": "OHzlM9ZfZiA=",
+>>>>>>> mhieu
   "success": true,
   "projectFilePath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\TheaterService.csproj",
   "expectedPackageFiles": [
