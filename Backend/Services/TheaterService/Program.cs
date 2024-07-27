@@ -14,7 +14,7 @@ var configuration = new ConfigurationBuilder()
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDBContext>(options =>
+builder.Services.AddDbContext<TheaterContext>(options =>
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<ITheaterRepo, TheaterRepo>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
@@ -49,6 +49,5 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllers();
-
 
 app.Run();

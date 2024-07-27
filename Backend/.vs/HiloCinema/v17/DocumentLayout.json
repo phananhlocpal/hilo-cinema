@@ -1,51 +1,34 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}|Services\\SaleService\\SaleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\saleservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}|Services\\SaleService\\SaleService.csproj|solutionrelative:services\\saleservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\dtos\\schedulereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\dtos\\schedulereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\service\\schedulemessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\service\\schedulemessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\service\\moviemessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\service\\moviemessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\dtos\\scheduleresponseforpublicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\dtos\\scheduleresponseforpublicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\dtos\\schedulereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\dtos\\schedulereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\profiles\\scheduleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\data\\schedulerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\data\\schedulerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\movieservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\movieservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,42 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\scheduleservice\\data\\schedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A9475A-257A-4DE3-95F9-59D07375F1E2}|Services\\ScheduleService\\ScheduleService.csproj|solutionrelative:services\\scheduleservice\\data\\schedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\movieservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\movieservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\data\\categorydata\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\data\\categorydata\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\data\\movietypedata\\movietyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\data\\movietypedata\\movietyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\models\\movietype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\models\\movietype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\models\\producers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\models\\producers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\movieservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\movieservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surface\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -181,31 +124,18 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surface\\AppData\\Local\\SourceServer\\490d554548e896b1585e02035290e27eb5fba7e0994bd4c8332c1ea8e1ac700d\\Backend\\Services\\MovieService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\profiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\profiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}|Services\\SaleService\\SaleService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\saleservice\\saleservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FCC1A8BF-D5D6-435E-8274-21DE1FF2879F}|Services\\SaleService\\SaleService.csproj|solutionrelative:services\\saleservice\\saleservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|c:\\users\\surface\\source\\repos\\hilocinema\\backend\\services\\movieservice\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE4C9DE1-8886-4C38-B7DF-8500C7ADD133}|Services\\MovieService\\MovieService.csproj|solutionrelative:services\\movieservice\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
-=======
-  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilo-cinema\\Backend\\",
-  "Documents": [],
->>>>>>> mhieu
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-<<<<<<< HEAD
           "DockedWidth": 190,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,58 +160,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-<<<<<<< HEAD
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\MessageService.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Service\\MessageService.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\MessageService.cs*",
-              "RelativeToolTip": "Services\\ScheduleService\\Service\\MessageService.cs*",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowBUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\SaleService\\Service\\MessageService.cs",
+              "RelativeDocumentMoniker": "Services\\SaleService\\Service\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\SaleService\\Service\\MessageService.cs",
+              "RelativeToolTip": "Services\\SaleService\\Service\\MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:06:52.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieMessageBroker.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Service\\MovieMessageBroker.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Service\\MovieMessageBroker.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Service\\MovieMessageBroker.cs",
-              "RelativeToolTip": "Services\\MovieService\\Service\\MovieMessageBroker.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwB0AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:20:55.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Service\\MessageService.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Service\\MessageService.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Service\\MessageService.cs",
-              "RelativeToolTip": "Services\\MovieService\\Service\\MessageService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA0wBgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:20:53.187Z",
+              "WhenOpened": "2024-07-26T16:01:29.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ScheduleMessageBroker.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
-              "RelativeToolTip": "Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Title": "ScheduleReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:14:23.791Z",
+              "WhenOpened": "2024-07-22T12:34:32.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Models\\Schedule.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Models\\Schedule.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:36:04.328Z",
               "EditorCaption": ""
             },
             {
@@ -299,20 +215,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Program.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Program.cs",
-              "RelativeToolTip": "Services\\MovieService\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABoAAAA",
+              "DocumentIndex": 7,
+              "Title": "ScheduleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:12:36.146Z",
+              "WhenOpened": "2024-07-22T12:31:12.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\MessageService.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Service\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\MessageService.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Service\\MessageService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:06:52.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleRepo.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Data\\ScheduleRepo.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleRepo.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Data\\ScheduleRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:20:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleMessageBroker.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
+              "RelativeToolTip": "Services\\ScheduleService\\Service\\ScheduleMessageBroker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:14:23.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Controllers\\ScheduleController.cs",
@@ -325,19 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "Services\\MovieService\\Controllers\\MovieController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwDoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:29:03.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ScheduleResponseForPublicDto.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleResponseForPublicDto.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Dtos\\ScheduleResponseForPublicDto.cs",
@@ -345,83 +288,12 @@
               "RelativeToolTip": "Services\\ScheduleService\\Dtos\\ScheduleResponseForPublicDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:59:06.204Z"
+              "WhenOpened": "2024-07-22T09:59:06.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ScheduleReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
-              "RelativeToolTip": "Services\\ScheduleService\\Dtos\\ScheduleReadDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:34:32.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Models\\Schedule.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Models\\Schedule.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Models\\Schedule.cs",
-              "RelativeToolTip": "Services\\ScheduleService\\Models\\Schedule.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:36:04.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Movie.cs",
-              "RelativeToolTip": "Services\\MovieService\\Models\\Movie.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T04:50:06.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ScheduleRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleRepo.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Data\\ScheduleRepo.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleRepo.cs",
-              "RelativeToolTip": "Services\\ScheduleService\\Data\\ScheduleRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T06:20:09.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScheduleProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
-              "RelativeToolTip": "Services\\ScheduleService\\Profiles\\ScheduleProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:31:12.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MovieService.csproj",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.csproj",
-              "RelativeDocumentMoniker": "Services\\MovieService\\MovieService.csproj",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.csproj",
-              "RelativeToolTip": "Services\\MovieService\\MovieService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T15:34:37.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "MovieReadDto.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\MovieReadDto.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Dtos\\MovieReadDto.cs",
@@ -429,11 +301,12 @@
               "RelativeToolTip": "Services\\ScheduleService\\Dtos\\MovieReadDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:34:36.882Z"
+              "WhenOpened": "2024-07-22T12:34:36.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "ScheduleCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Dtos\\ScheduleCreateDto.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Dtos\\ScheduleCreateDto.cs",
@@ -441,11 +314,12 @@
               "RelativeToolTip": "Services\\ScheduleService\\Dtos\\ScheduleCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:40:38.853Z"
+              "WhenOpened": "2024-07-22T09:40:38.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "IScheduleRepo.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\IScheduleRepo.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Data\\IScheduleRepo.cs",
@@ -453,130 +327,25 @@
               "RelativeToolTip": "Services\\ScheduleService\\Data\\IScheduleRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T06:20:13.136Z"
+              "WhenOpened": "2024-07-21T06:20:13.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "ScheduleContext.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleContext.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Data\\ScheduleContext.cs",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Data\\ScheduleContext.cs",
               "RelativeToolTip": "Services\\ScheduleService\\Data\\ScheduleContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:35:58.924Z"
+              "WhenOpened": "2024-07-22T09:35:58.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Data\\CategoryData\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Data\\CategoryData\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Data\\CategoryData\\CategoryRepository.cs",
-              "RelativeToolTip": "Services\\MovieService\\Data\\CategoryData\\CategoryRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:22:43.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MovieType.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\MovieType.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Models\\MovieType.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\MovieType.cs",
-              "RelativeToolTip": "Services\\MovieService\\Models\\MovieType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:30.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Actor.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Models\\Actor.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Actor.cs",
-              "RelativeToolTip": "Services\\MovieService\\Models\\Actor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:11:45.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MovieService",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.csproj",
-              "RelativeDocumentMoniker": "Services\\MovieService\\MovieService.csproj",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.csproj",
-              "RelativeToolTip": "Services\\MovieService\\MovieService.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T09:26:28.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Category.cs",
-              "RelativeToolTip": "Services\\MovieService\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:12:29.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Producers.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Producers.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Models\\Producers.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Models\\Producers.cs",
-              "RelativeToolTip": "Services\\MovieService\\Models\\Producers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:49.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MovieTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Data\\MovieTypeData\\MovieTypeRepository.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Data\\MovieTypeData\\MovieTypeRepository.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Data\\MovieTypeData\\MovieTypeRepository.cs",
-              "RelativeToolTip": "Services\\MovieService\\Data\\MovieTypeData\\MovieTypeRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAMwCEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:22:27.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MovieService.http",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.http",
-              "RelativeDocumentMoniker": "Services\\MovieService\\MovieService.http",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\MovieService.http",
-              "RelativeToolTip": "Services\\MovieService\\MovieService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-22T09:06:51.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\MovieService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\appsettings.json",
-              "RelativeToolTip": "Services\\MovieService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:18:04.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\Program.cs",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\Program.cs",
@@ -584,23 +353,25 @@
               "RelativeToolTip": "APIGateway\\APIGateway\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAkwCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T15:00:24.907Z"
+              "WhenOpened": "2024-07-21T15:00:24.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\Properties\\launchSettings.json",
               "RelativeToolTip": "APIGateway\\APIGateway\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAGAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwBsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:21:15.014Z"
+              "WhenOpened": "2024-07-21T13:21:15.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\appsettings.Development.json",
@@ -608,11 +379,12 @@
               "RelativeToolTip": "APIGateway\\APIGateway\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:22:10.983Z"
+              "WhenOpened": "2024-07-21T13:22:10.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 15,
               "Title": "APIGateway.csproj",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\APIGateway.csproj",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\APIGateway.csproj",
@@ -620,11 +392,12 @@
               "RelativeToolTip": "APIGateway\\APIGateway\\APIGateway.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T15:20:59.645Z"
+              "WhenOpened": "2024-07-21T15:20:59.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 14,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\Surface\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
@@ -632,11 +405,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
               "ViewState": "AQIAAMcAAAAAAAAAAAAlwNYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-21T15:32:41.738Z"
+              "WhenOpened": "2024-07-21T15:32:41.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\appsettings.json",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\appsettings.json",
@@ -644,11 +418,12 @@
               "RelativeToolTip": "APIGateway\\APIGateway\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:21:09.055Z"
+              "WhenOpened": "2024-07-21T13:21:09.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 20,
               "Title": "TheaterService.csproj",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\TheaterService.csproj",
               "RelativeDocumentMoniker": "Services\\TheaterService\\TheaterService.csproj",
@@ -656,11 +431,12 @@
               "RelativeToolTip": "Services\\TheaterService\\TheaterService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T15:21:35.061Z"
+              "WhenOpened": "2024-07-21T15:21:35.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 24,
               "Title": "TheaterController.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\Controllers\\TheaterController.cs",
               "RelativeDocumentMoniker": "Services\\TheaterService\\Controllers\\TheaterController.cs",
@@ -668,11 +444,12 @@
               "RelativeToolTip": "Services\\TheaterService\\Controllers\\TheaterController.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T15:09:13.383Z"
+              "WhenOpened": "2024-07-21T15:09:13.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 23,
               "Title": "TheaterProfile.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\Profiles\\TheaterProfile.cs",
               "RelativeDocumentMoniker": "Services\\TheaterService\\Profiles\\TheaterProfile.cs",
@@ -680,23 +457,25 @@
               "RelativeToolTip": "Services\\TheaterService\\Profiles\\TheaterProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T15:09:18.671Z"
+              "WhenOpened": "2024-07-21T15:09:18.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\TheaterService\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\Properties\\launchSettings.json",
               "RelativeToolTip": "Services\\TheaterService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T15:08:35.103Z"
+              "WhenOpened": "2024-07-21T15:08:35.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\TheaterService\\appsettings.json",
@@ -704,23 +483,25 @@
               "RelativeToolTip": "Services\\TheaterService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:20:18.392Z"
+              "WhenOpened": "2024-07-21T13:20:18.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 25,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\ocelot.json",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway\\ocelot.json",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\APIGateway\\APIGateway\\ocelot.json",
               "RelativeToolTip": "APIGateway\\APIGateway\\ocelot.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAGAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwBAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T14:00:21.519Z"
+              "WhenOpened": "2024-07-21T14:00:21.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\TheaterService\\Program.cs",
               "RelativeDocumentMoniker": "Services\\TheaterService\\Program.cs",
@@ -728,23 +509,25 @@
               "RelativeToolTip": "Services\\TheaterService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T07:01:12.973Z"
+              "WhenOpened": "2024-07-21T07:01:12.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 27,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\Properties\\launchSettings.json",
               "RelativeToolTip": "Services\\ScheduleService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAWAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAABRwCkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T13:21:40.285Z"
+              "WhenOpened": "2024-07-21T13:21:40.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 28,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -752,11 +535,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAJ4VAAAAAAAAAAAnwLMVAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-21T12:45:06.646Z"
+              "WhenOpened": "2024-07-21T12:45:06.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\ScheduleService\\appsettings.json",
@@ -764,35 +548,25 @@
               "RelativeToolTip": "Services\\ScheduleService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T08:04:28.676Z"
+              "WhenOpened": "2024-07-21T08:04:28.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Surface\\AppData\\Local\\SourceServer\\490d554548e896b1585e02035290e27eb5fba7e0994bd4c8332c1ea8e1ac700d\\Backend\\Services\\MovieService\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\490d554548e896b1585e02035290e27eb5fba7e0994bd4c8332c1ea8e1ac700d\\Backend\\Services\\MovieService\\Program.cs",
               "ToolTip": "C:\\Users\\Surface\\AppData\\Local\\SourceServer\\490d554548e896b1585e02035290e27eb5fba7e0994bd4c8332c1ea8e1ac700d\\Backend\\Services\\MovieService\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\490d554548e896b1585e02035290e27eb5fba7e0994bd4c8332c1ea8e1ac700d\\Backend\\Services\\MovieService\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAIBZwDwAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAACBjwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T07:14:40.359Z"
+              "WhenOpened": "2024-07-21T07:14:40.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "MovieProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Profiles\\MovieProfile.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Profiles\\MovieProfile.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Profiles\\MovieProfile.cs",
-              "RelativeToolTip": "Services\\MovieService\\Profiles\\MovieProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T04:50:20.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 31,
               "Title": "SaleService.csproj",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\SaleService\\SaleService.csproj",
               "RelativeDocumentMoniker": "Services\\SaleService\\SaleService.csproj",
@@ -800,21 +574,8 @@
               "RelativeToolTip": "Services\\SaleService\\SaleService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T05:12:35.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ProducerController.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Controllers\\ProducerController.cs",
-              "RelativeDocumentMoniker": "Services\\MovieService\\Controllers\\ProducerController.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\MovieService\\Controllers\\ProducerController.cs",
-              "RelativeToolTip": "Services\\MovieService\\Controllers\\ProducerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T04:43:59.366Z"
-=======
->>>>>>> mhieu
+              "WhenOpened": "2024-07-21T05:12:35.192Z",
+              "EditorCaption": ""
             }
           ]
         }

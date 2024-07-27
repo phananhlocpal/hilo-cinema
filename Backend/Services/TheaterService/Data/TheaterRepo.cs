@@ -4,9 +4,9 @@ namespace TheaterService.Data
 {
     public class TheaterRepo : ITheaterRepo
     {
-        private readonly AppDBContext _context;
+        private readonly TheaterContext _context;
 
-        public TheaterRepo(AppDBContext context) 
+        public TheaterRepo(TheaterContext context) 
         {
             _context = context;
         }

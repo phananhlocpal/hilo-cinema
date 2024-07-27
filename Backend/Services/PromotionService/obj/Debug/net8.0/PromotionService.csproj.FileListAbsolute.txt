@@ -70,3 +70,5 @@ C:\Users\USER\OneDrive\Desktop\hilo-cinema\Backend\Services\PromotionService\obj
 C:\Users\USER\OneDrive\Desktop\hilo-cinema\Backend\Services\PromotionService\obj\Debug\net8.0\PromotionService.genruntimeconfig.cache
 C:\Users\USER\OneDrive\Desktop\hilo-cinema\Backend\Services\PromotionService\obj\Debug\net8.0\ref\PromotionService.dll
 C:\Users\USER\OneDrive\Desktop\hilo-cinema\Backend\Services\PromotionService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\Services\PromotionService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Surface\source\repos\HiloCinema\Backend\Services\PromotionService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
